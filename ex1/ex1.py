@@ -1,4 +1,5 @@
-# LPTHW ex1.py
+# LPTHW ex1.py - A Good First Program
+
 print("Hello World!")
 print("Hello Again")
 print("I like typing this.")
