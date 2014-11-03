@@ -1,7 +1,7 @@
 LP3THW
 ======
 
-Python 3 solutions to the exercises in Zed Shaw's Learn Python the Hard Way. Done as an exercise in developing a more "Pythonic" style of coding. [What's New in Python 3](https://docs.python.org/3/whatsnew/3.0.html) is an indispensable resource for when things don't work.
+Python 3 solutions to the exercises in Zed Shaw's *Learn Python the Hard Way*. Done as an exercise in developing a more "Pythonic" style of coding. [What's New in Python 3](https://docs.python.org/3/whatsnew/3.0.html) is an indispensable resource for when things don't work.
 
 Read *Learn Python the Hard Way* at http://learnpythonthehardway.org/ and find additional material at [the author's own GitHub](https://github.com/zedshaw/lpthw-study-projects).
 
