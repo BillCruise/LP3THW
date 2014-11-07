@@ -20,3 +20,5 @@ If you're new to programming, you should definitely follow the author's advice a
 9. Printing, Printing, Printing
 10. What Was That?
 11. Asking Questions
+12. Prompting People
+13. Parameters, Unpacking, Variables
