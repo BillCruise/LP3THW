@@ -30,3 +30,7 @@ If you're new to programming, you should definitely follow the author's advice a
 19. Functions and Variables
 20. Functions and Files
 21. Functions Can Return Something
+22. What Do You Know So Far?
+23. Read Some Code
+24. More Practice
+25. Even More Practice
