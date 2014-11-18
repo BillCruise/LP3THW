@@ -34,3 +34,6 @@ If you're new to programming, you should definitely follow the author's advice a
 23. Read Some Code
 24. More Practice
 25. Even More Practice
+26. Congratulations, Take a Test!
+27. Memorizing Logic
+28. Boolean Practice
