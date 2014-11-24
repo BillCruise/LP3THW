@@ -40,3 +40,4 @@ If you're new to programming, you should definitely follow the author's advice a
 29. What If
 30. Else and If
 31. Making Decisions
+32. Loops and Lists
