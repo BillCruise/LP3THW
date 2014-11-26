@@ -42,4 +42,6 @@ If you're new to programming, you should definitely follow the author's advice a
 31. Making Decisions
 32. Loops and Lists
 33. While-Loops
+34. Accessing Elements of Lists
+35. Branches and Functions
 
