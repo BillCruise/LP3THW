@@ -44,4 +44,7 @@ If you're new to programming, you should definitely follow the author's advice a
 33. While-Loops
 34. Accessing Elements of Lists
 35. Branches and Functions
+36. Designing and Debugging
+37. Symbol Review
+38. Doing Things to Lists
 
