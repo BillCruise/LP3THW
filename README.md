@@ -3,7 +3,7 @@ LP3THW
 
 Python 3 solutions to the exercises in Zed Shaw's *Learn Python the Hard Way*. Done as an exercise in developing a more "Pythonic" style of coding. [What's New in Python 3](https://docs.python.org/3/whatsnew/3.0.html) is an indispensable resource for when things don't work.  [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) is a good resource for Python coding conventions.
 
-Read *Learn Python the Hard Way* at http://learnpythonthehardway.org/ and find additional material at [the author's own GitHub](https://github.com/zedshaw/lpthw-study-projects).
+Read *Learn Python the Hard Way* at http://learnpythonthehardway.org/book and find additional material at [the author's own GitHub](https://github.com/zedshaw/lpthw-study-projects).
 
 If you're new to programming, you should definitely follow the author's advice and do these exercises in Python 2 instead. I am a trained professional.
 
@@ -51,4 +51,4 @@ If you're new to programming, you should definitely follow the author's advice a
 40. Modules, Classes, and Objects
 41. Learning to Speak Object Oriented
 42. Is-A, Has-A, Objects, and Classes
-
+43. Basic Object-Oriented Analysis and Design
