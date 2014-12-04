@@ -53,4 +53,6 @@ If you're new to programming, you should definitely follow the author's advice a
 42. Is-A, Has-A, Objects, and Classes
 43. Basic Object-Oriented Analysis and Design
 44. Inheritance vs. Composition
+45. You Make a Game
+46. A Project Skeleton
 
