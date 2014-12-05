@@ -55,4 +55,5 @@ If you're new to programming, you should definitely follow the author's advice a
 44. Inheritance vs. Composition
 45. You Make a Game
 46. A Project Skeleton
+47. Automated Testing
 
