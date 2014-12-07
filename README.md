@@ -57,3 +57,4 @@ If you're new to programming, you should definitely follow the author's advice a
 46. A Project Skeleton
 47. Automated Testing
 48. Advanced User Input
+49. Making Sentences
